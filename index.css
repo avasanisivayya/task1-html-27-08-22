@@ -1,0 +1,24 @@
+.tag{
+    background-color: bisque;
+}
+.sidenavbar{
+    background-color: violet;
+}
+.navbar1{
+    background-color: bisque;
+    /* display:flex; */
+    /* justify-content:space-between; */
+}
+.navbar1 li{
+margin: 20px;
+}
+.information{
+padding-left: 10px;
+
+}
+ul{
+    list-style: none;
+}
+h2,h3,h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
